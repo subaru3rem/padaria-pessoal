@@ -1,7 +1,7 @@
 import produtos, caixa
 
 escolha=""
-prod=[["batata", "555", 5, 40], ["cenoura","444",3,60],["chuchu","333",3,50]]
+prod=[]
 compras = [[0]]
 
 while escolha !="0":
